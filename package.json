@@ -1,0 +1,17 @@
+{
+  "name": "blog-sharing",
+  "version": "1.0.0",
+  "description": "#### Description 记录计算机相关的内容",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/zwln_1120/blog-sharing.git"
+  },
+  "author": "zw",
+  "license": "ISC"
+}
