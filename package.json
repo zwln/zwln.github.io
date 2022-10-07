@@ -1,17 +1,24 @@
 {
-  "name": "blog-sharing",
+  "name": "vuepressBlog",
   "version": "1.0.0",
-  "description": "#### Description 记录计算机相关的内容",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vuepress dev docs",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://gitee.com/zwln_1120/blog-sharing.git"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.4",
+    "yarn": "^1.22.19"
   },
-  "author": "zw",
-  "license": "ISC"
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-last-updated": "^1.9.7"
+  }
 }
