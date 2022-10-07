@@ -21,27 +21,27 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "8c6d561aa04700005efff822fdef990f"
+    "revision": "04748ca74be42c1aa9b0fb47d01525b0"
   },
   {
     "url": "about/2021年总结.html",
-    "revision": "bbe959f1a48ac61db752d2ce145e63a9"
+    "revision": "85b26845ffe56e705a494e1106ea2455"
   },
   {
     "url": "about/index.html",
-    "revision": "8b18ee991f61c79fb167205cd897dd3c"
+    "revision": "84c4b26ee8940830b9ba19260bc7ebba"
   },
   {
     "url": "about/关于蓝桥杯、天梯赛的乱七八糟的心得.html",
-    "revision": "a4d114e90cca484c19bf7220bd79591a"
+    "revision": "d2ae9eacbd7543ff21f753a6e6a20be4"
   },
   {
     "url": "about/大二上半学期寒假总结.html",
-    "revision": "6c23b5061f46442343a8474633143596"
+    "revision": "9f8ff2d534ef58b22e6f914579f7aebb"
   },
   {
-    "url": "assets/css/0.styles.37d6edfe.css",
-    "revision": "b1c9dadfdcdfb66e34f59b25d8c878d4"
+    "url": "assets/css/0.styles.437f5b90.css",
+    "revision": "ff89ca4859411ded1ded9ea257701874"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -112,44 +112,44 @@ self.__precacheManifest = [
     "revision": "936be35c3f0a31b1acbe391a4589c448"
   },
   {
-    "url": "assets/js/app.92bda0ac.js",
-    "revision": "5f64d54515854aeb52a75c99c198bdab"
+    "url": "assets/js/app.72f1c7a4.js",
+    "revision": "b83799e6e0a31904de8911ef067efb1b"
   },
   {
     "url": "cs/network/【http学习笔记一】破冰篇.html",
-    "revision": "eeadee4da264428ca395f0cae97c4d6d"
+    "revision": "4e22d90dfb3081d5a35829ddc76dbb8f"
   },
   {
     "url": "cs/network/【http学习笔记三】进阶篇.html",
-    "revision": "f914795d2205415e5df3b4a1118844d1"
+    "revision": "0c254aa65addceee1c952d91829d05d8"
   },
   {
     "url": "cs/network/【http学习笔记二】基础篇.html",
-    "revision": "c26d8654fb170933c41dad992e504a21"
+    "revision": "fc9a25b1735dc7e89c9f5779c583bff6"
   },
   {
     "url": "cs/network/【http学习笔记五】飞翔篇.html",
-    "revision": "04f8a18728fcfcd1f78a569cb897c19e"
+    "revision": "d23189232e642b5cd21ae3a2aa29b289"
   },
   {
     "url": "cs/network/【http学习笔记六】探索篇.html",
-    "revision": "eecb4f3b5273a9f63625bd59ec028041"
+    "revision": "a8f6a9a24a15d746b6a5feb2f79d6ec0"
   },
   {
     "url": "cs/network/【http学习笔记四】安全篇.html",
-    "revision": "e8c5a0a16283f7ab8df27862042a29f7"
+    "revision": "062a7d7de85c5042ddc812864af08ff3"
   },
   {
     "url": "cs/network/index.html",
-    "revision": "79bd8cda50abc37432dcd6ad96bb2769"
+    "revision": "758cd6b0b34c60307fe29762a6deb3e6"
   },
   {
     "url": "good/index.html",
-    "revision": "117ea5f7a1d265ada6c6a23ecdb5091f"
+    "revision": "0b745767313065134b57d23f420d6b65"
   },
   {
     "url": "guide.html",
-    "revision": "2335881ec69eeb4fe682335a6801473b"
+    "revision": "5212d44451e9c7b7aef4d0d2db3ed14e"
   },
   {
     "url": "images/eg1.png",
@@ -201,7 +201,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d9444a438d9585c8ec398f45e3ec2b55"
+    "revision": "e72e889769ab53fe28be7a649a084da8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

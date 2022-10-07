@@ -14,6 +14,7 @@ module.exports = {
   markdown: {
     lineNumbers: true // 代码块是否显示行号
   },
+  base: "./",
   themeConfig: {
     nav: [
       {
